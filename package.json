@@ -1,0 +1,35 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "description": "gulp template for development",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "connect-livereload": "^0.5.2",
+    "gulp-minify-css": "^0.3.12",
+    "gulp-jshint": "^1.9.0",
+    "tiny-lr": "^0.1.4",
+    "gulp-replace": "^0.5.0",
+    "express": "^4.11.0",
+    "gulp-uglify": "^1.0.2",
+    "gulp-concat": "^2.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janechu/gulp_template.git"
+  },
+  "keywords": [
+    "gulp",
+    "template"
+  ],
+  "author": "Jane Chu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janechu/gulp_template/issues"
+  },
+  "homepage": "https://github.com/janechu/gulp_template"
+}
